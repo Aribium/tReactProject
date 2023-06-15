@@ -1052,3 +1052,43 @@ a {
 .link__list--self4 {
   color: white;
 }
+
+
+#row__test{
+  max-width: 1200px;
+  width: 100%;
+  margin: 104px auto;
+  display: flex;
+}
+
+.row__test--left{
+  width: 50%;
+display: flex;
+flex-direction: column;
+justify-content: center;
+}
+
+.row__test--left1{
+  width: 100%;
+}
+
+.row__test--right{
+  padding: 0 0 0 64px;
+  width: 50%;
+}
+
+.test__head{
+  font-size: 24px;
+  color: #6415ff;
+  font-weight: 500;
+}
+
+.test__head--purple{
+  color:#6415ff;
+
+}
+
+.test__title{
+  font-size: 50px;
+  font-weight: bold;
+}
