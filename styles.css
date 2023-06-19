@@ -1200,7 +1200,7 @@ a {
   }
  .feature__para{
   width: 100px;
-  margin-left: 16px;
+  margin-left: 24px;
  }
 
  .section__five--features--right{
@@ -1229,4 +1229,184 @@ a {
   width: 100%;
 
  }
+ .top__3--text{
+  width: 550px;
+ }
+
+ .top__3--text{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+ }
+
+ #row__seven{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+ }
+}
+
+@media (max-width: 420px){
+  .list__nav{
+    display: none;
+  }
+
+  .top{
+    display: flex;
+    justify-content: center;
+    margin-bottom: -100px;
+  }
+
+  .logo__top--fig{
+    margin-left: -24px;
+  }
+  .main__heading--text, .orange1{
+    font-size: 24px;
+    display: flex;
+    justify-content: center;
+  }
+  .orange1{
+   padding-left: 4px;
+
+  }
+
+  .left__side--one{
+    display: flex;
+    flex-direction: column;
+  }
+
+  .main__heading--para{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-size: 16px;
+    width: 400px;
+  }
+  .heading__company--img{
+    width: 200px;
+  }
+
+  .main__heading--template{
+    width: 350px;
+  }
+  .right__side--top{
+    display: flex;
+    justify-content: center;
+  }
+  .section__three--title1{
+    font-size: 24px;
+  }
+  .main__heading--text2{
+    font-size: 24px;
+  }
+
+  .row__three--right{
+    display: flex;
+    justify-content: center;
+  }
+
+  .row__three--right--img{
+    width: 350px;
+  }
+
+  .lol{
+    width: 100%;
+  }
+  #row__four{
+    display: flex;
+    justify-content: center;
+  }
+.section__five--features{
+  display: flex;
+  justify-content: center;
+}
+
+.section__five--features--title{
+  font-size: 16px;
+}
+
+.section__five--para2{
+  font-size: 12px;
+}
+
+.r__s--32{
+  font-size: 24px;
+}
+.section__five--heading{
+  font-size: 24px;
+}
+
+.row__seven--heading{
+  font-size: 24px;
+}
+
+.top__3--text{
+display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.links__footer__container{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 375px;
+}
+.row__six--para{
+  width: 350px;
+}
+
+.test__title{
+  font-size: 24px;
+}
+
+#row__seven{
+  width: 350px;
+  display: flex;
+  justify-content: center;
+
+}
+.top__3--text{
+  width: 100%;
+}
+
+.three__prices{
+  width: 100%;}
+
+  #row__four{
+    width: 375px;
+  }
+  .rs33-text{
+    width: 300px;
+  }
+  .rs33-text1{
+    width: 100%;
+  }
+
+  .right__side--3text{
+    padding: 12px;
+  }
+  .right__side--3text1{
+    padding: 12px;
+  }
+  .right__side--3text2{
+    padding: 12px;
+  }
+  .right__side--3text2{
+    width: 100%;
+  }
+  .right__side--3text1{
+    width: 100%;
+  }
+  .right__side--3text{
+    width: 100%;
+  }
+  .right__side--three3{
+    width: 100%;
+  }
+  .rs33-text{
+    width: 100%;
+  }
 }
