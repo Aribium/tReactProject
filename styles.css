@@ -1415,6 +1415,10 @@ display: flex;
   font-size: 24px;
 }
 
+.test__btns{
+  margin-left: 150px;
+}
+
 @media (max-width: 460px){
 
   .row, .row__two{
@@ -1685,6 +1689,14 @@ width: 100px;
   font-size: 12px;
 }
 
+.img__of--lady{
+  width: 325px;
+}
+
+.test__btns{
+  margin-left: 16px;
+}
+
 }
 
 .test__para--head1{
@@ -1716,9 +1728,7 @@ width: 100px;
 align-items: center;
 }
 
-.test__btns{
-  margin-left: 150px;
-}
+
 
 
 
