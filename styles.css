@@ -1411,6 +1411,10 @@ display: flex;
   }
 }
 
+.charlotte{
+  font-size: 24px;
+}
+
 @media (max-width: 460px){
 
   .row, .row__two{
@@ -1659,6 +1663,28 @@ padding: 24px;
 .link__list, .link__list2, .link__list3, .link__list4{
 width: 100px;
 }
+.test__title{
+  font-size: 18px;
+}
+
+.test__para--head1{
+  font-size: 18px;
+}
+
+.test__lorem{
+  font-size: 12px;
+}
+.lady__image{
+  width: 55px;
+}
+
+.charlotte{
+  font-size: 18px;
+}
+.charlotte1{
+  font-size: 12px;
+}
+
 }
 
 .test__para--head1{
@@ -1694,6 +1720,5 @@ align-items: center;
   margin-left: 150px;
 }
 
-.charlotte{
-  font-size: 24px;
-}
+
+
