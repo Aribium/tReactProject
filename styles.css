@@ -1410,7 +1410,7 @@ display: flex;
   }
 }
 
-@media (max-width: 365px){
+@media (max-width: 460px){
 
   .row, .row__two{
     max-width: 360px;
